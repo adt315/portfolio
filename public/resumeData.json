@@ -57,16 +57,19 @@
     "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
     "education":[
       {
-        "school":"University?",
-        "degree":"Masters in Beer tasting",
-        "graduated":"April 2007",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school":"University of Connecticut",
+        "degree":"Full Stack Web Developer Boot Camp Certificate",
+        "graduated":"January 2021"
       },
       {
-        "school":"School #1 Maybe College?",
-        "degree":"What did you study 101",
-        "graduated":"March 2003",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school":"Texas Tech University",
+        "degree":"Bachelor of Business Administration",
+        "graduated":"May 2004"
+      },
+      {
+        "school":"Udemy.com",
+        "degree":"The Complete 2021 Web Development Bootcamp",
+        "graduated":"Dr. Angela Yu"
       }
     ],
     "work":[
