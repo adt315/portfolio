@@ -74,7 +74,7 @@ class Contact extends Component {
            </div>
 
 
-            <aside className="four columns footer-widgets">
+            {/* <aside className="four columns footer-widgets">
                <div className="widget widget_contact">
 
 					   <h4>Address and Phone</h4>
@@ -105,8 +105,8 @@ class Contact extends Component {
                         <b><a href="#">3 Days Ago</a></b>
                      </li>
                   </ul>
-		         </div>
-            </aside>
+		         </div> *
+            </aside> */}
       </div>
    </section>
     );
