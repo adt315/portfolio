@@ -21,7 +21,7 @@
 /* a. General Styles
 /* ------------------------------------------------------------------ */
 
-body { background: #0f0f0f; }
+body { background: #fdc9cc }
 
 /* ------------------------------------------------------------------ */
 /* b. Header Styles
@@ -32,7 +32,7 @@ header {
    height: 800px;
    min-height: 500px;
    width: 100%;
-   background: #161415 url(../images/header-background.jpg) no-repeat top center;
+   background: url(../images/header-background.jpg) no-repeat top center;
    background-size: cover !important;
 	-webkit-background-size: cover !important;
    text-align: center;
@@ -150,7 +150,7 @@ header .scrolldown a:hover { color: #61C0BF; }
    left: 0;
    top: 0;
 }
-.opaque { background-color: #333; }
+.opaque { background-color: #fdc9cc; }
 
 /* hide toggle button */
 #nav-wrap > a.mobile-btn { display: none; }
@@ -197,7 +197,7 @@ ul#nav li.current a { color: #ff9195; }
 /* ------------------------------------------------------------------ */
 
 #about {
-   background: black;
+   background: #fdc9cc;
    padding-top: 96px;
    padding-bottom: 66px;
    overflow: hidden;
@@ -233,7 +233,7 @@ ul#nav li.current a { color: #ff9195; }
 }
 #about .download .button:hover {
    background: #fff;
-   color: #2B2B2B;
+   color: #fdc9cc;
 }
 #about .download .button i {
    margin-right: 15px;
@@ -744,7 +744,7 @@ call-to-action .button {
 /* ------------------------------------------------------------------ */
 
 #contact {
-   background: #191919;
+   background: #fdc9cc;
    padding-top: 96px;
    padding-bottom: 102px;
    color: #636363;
