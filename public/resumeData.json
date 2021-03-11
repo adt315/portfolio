@@ -13,43 +13,27 @@
       "state":"CT",
       "zip": "06790"
     },
-    "website": "http://www.  .com",
     "resumedownload":"https://docs.google.com/document/d/1HnCJhZmVNAi5GhHVGNZGOF29kzXjtklBW8mDucLURuY/edit#",
     "social":[
       {
-        "name":"facebook",
-        "url":"http://facebook.com/",
-        "className":"fa fa-facebook"
-      },
-      {
-        "name":"twitter",
-        "url":"http://twitter.com",
-        "className":"fa fa-twitter"
-      },
-      {
-        "name":"google-plus",
-        "url":"http://googleplus.com/",
-        "className":"fa fa-google-plus"
-      },
-      {
         "name":"linkedin",
-        "url":"https://www.linkedin.com/in",
+        "url":"https://www.linkedin.com/in/adt315/",
         "className":"fa fa-linkedin"
       },
       {
-        "name":"instagram",
-        "url":"http://instagram.com",
-        "className":"fa fa-instagram"
-      },
-      {
         "name":"github",
-        "url":"http://github.com/tx",
+        "url":"https://github.com/adt315",
         "className":"fa fa-github"
       },
       {
-        "name":"skype",
-        "url":"http://skype.com",
-        "className":"fa fa-skype"
+        "name":"instagram",
+        "url":"https://www.instagram.com/angelatooley/?hl=en",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/angela.pearsontooley",
+        "className":"fa fa-facebook"
       }
     ]
   },
