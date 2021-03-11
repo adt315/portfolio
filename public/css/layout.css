@@ -649,7 +649,7 @@ call-to-action .button {
 #call-to-action .button:hover,
 #call-to-action .button:active {
    background: #FFFFFF;
-   color: #0D0D0D;
+   color: #B5B7B9;
 }
 #call-to-action p span {
 	font-family: 'opensans-semibold', sans-serif;
@@ -772,7 +772,7 @@ call-to-action .button {
    line-height: 72px;
    text-align: left;
    float: left;
-   color: #ebeeee;
+   color: #fdc9cc;
 }
 
 #contact h4 {
@@ -781,9 +781,12 @@ call-to-action .button {
    margin-bottom: 6px;
 }
 #contact p.lead {
-   font: 18px/36px 'opensans-light', sans-serif;
-   padding-right: 3%;
+   font: 24px 'opensans-light', sans-serif;
+   font-weight: bold;
+   padding-top: 30px;
+   color: #313131;
 }
+
 #contact .header-col { padding-top: 6px; }
 
 
@@ -792,23 +795,23 @@ call-to-action .button {
 #contact label {
    font: 15px/24px 'opensans-bold', sans-serif;
    margin: 12px 0;
-   color: #EBEEEE;
+   color: #B5B7B9;
 	display: inline-block;
-	float: left;
-   width: 26%;
+	
+   /* width: 26%; */
 }
 #contact input,
 #contact textarea,
 #contact select {
    padding: 18px 20px;
-	color: #eee;
+	color: #313131;
 	background: #fff;
 	margin-bottom: 42px;
 	border: 0;
 	outline: none;
    font-size: 15px;
    line-height: 24px;
-   width: 65%;
+   width: 100%;
 }
 #contact input:focus,
 #contact textarea:focus,
@@ -820,17 +823,17 @@ call-to-action .button {
 	text-transform: uppercase;
 	letter-spacing: 3px;
 	color:#fff;
-   background: #0D0D0D;
+   background: #B5B7B9;
 	border: none;
    cursor: pointer;
    height: auto;
    display: inline-block;
 	border-radius: 3px;
-   margin-left: 26%;
+   margin: auto 0 auto 0;
 }
 #contact button.submit:hover {
-	color: #0D0D0D;
-	background: #fff;
+	color: #fff;
+	background: #fa8d92;
 }
 #contact span.required {
 	color: #fa8d92;
@@ -947,7 +950,7 @@ footer .social-links li:first-child { margin-left: 0; }
 	display: block;
 	width: 60px;
 	height: 60px;
-	background-color: #525252;
+	background-color: #b0b1b3;
 
 	-webkit-transition: all 0.2s ease-in-out;
    -moz-transition: all 0.2s ease-in-out;

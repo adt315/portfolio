@@ -18,15 +18,10 @@ class Contact extends Component {
 
          <div className="row section-head">
 
-            <div className="two columns header-col">
+            <div>
 
                <h1><span>Get In Touch.</span></h1>
-
-            </div>
-
-            <div className="ten columns">
-
-                  <p className="lead">{message}</p>
+               <p className="lead">{message}</p>
 
             </div>
 
