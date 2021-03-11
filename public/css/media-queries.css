@@ -101,7 +101,7 @@
 	   width: 48px;
 		height: 48px;
 		text-align: left;
-		background-color: #CC5200;
+		background-color: #fa8d92;
 		position: relative;
       border: none;
       float: right;
@@ -263,7 +263,7 @@
       margin-bottom: 30px;
       text-shadow: 0px 1px 3px rgba(0, 0, 0, 1);
    }  
-   #contact h1 span { display: block; }
+   #contact h1 { display: block; }
    #contact .header-col { padding-top: 0; }
    #contact .header-col h1:before { content: none;	}
    #contact .section-head p.lead { text-align: center;}
