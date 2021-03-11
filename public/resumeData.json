@@ -66,24 +66,6 @@
         "years":"2015 – Present",
         "description":"Beadabop, LLC"
       }
-    ],
-    "skills":[
-      {
-        "name":"Git"
-      },
-      {
-        "name":"ReactJs" 
-      },
-      {
-        "name":"CSS"
-      },
-      {
-        "name":"HTML"
-      },
-      {
-        "name":"JavaScript"
-      }
-      
     ]
   },
   "portfolio":{
