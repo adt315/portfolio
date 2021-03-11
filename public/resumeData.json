@@ -38,7 +38,6 @@
     ]
   },
   "resume":{
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
     "education":[
       {
         "school":"University of Connecticut",
@@ -66,12 +65,25 @@
         "title":"Craft and Jewelry Making Teacher/Owner",
         "years":"2015 – Present",
         "description":"Beadabop, LLC"
-
       }
     ],
     "skills":[
       {
+        "name":"Git"
+      },
+      {
+        "name":"ReactJs" 
+      },
+      {
+        "name":"CSS"
+      },
+      {
+        "name":"HTML"
+      },
+      {
+        "name":"JavaScript"
       }
+      
     ]
   },
   "portfolio":{
