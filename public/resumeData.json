@@ -93,41 +93,40 @@
   "portfolio":{
     "projects": [
       {
-        "title":"Boardolio",
-        "category":" ",
-        "image":"boardolio-screenshot.png",
-        "url":""
+        "title":"Timed Quiz",
+        "category":"A timed quiz with multiple-choice questions and a high scores list",
+        "image":"timed-quiz-screenshot.png",
+        "url":"https://adt315.github.io/timed-quiz/"
       },
       {
         "title":"Fitness Tracker",
-        "category":"",
+        "category":"Allows users to add exercises to workout plans and view combined weight of multiple exercises",
         "image":"fitness-tracker-screenshot.png",
-        "url":""
+        "url":"https://floating-dusk-21443.herokuapp.com/"
       },
       {
         "title":"Password Generator",
-        "category":"",
+        "category":"An app that generates a random password based on user-selected criteria",
         "image":"password-generator-screenshot.png",
-        "url":""
+        "url":"https://adt315.github.io/password-generator/"
       },
       {
-        "title":"Timed Quiz",
-        "category":"",
-        "image":"timed-quiz-screenshot.png",
-        "url":""
+        "title":"Boardolio",
+        "category":"A convenient dashboard to track your stock portfolio",
+        "image":"boardolio-screenshot.png",
+        "url":"https://metropolis488.github.io/Boardolio/"
       },
       {
         "title":"Progressive Budget",
-        "category":"",
+        "category":"An app that can be used to add deposits and expenses to your budget with or without a connection",
         "image":"progressive-budget-screenshot.png",
-        "url":""
+        "url":"https://vast-hamlet-48054.herokuapp.com/"
       },
-     
       {
         "title":"Uncloud",
-        "category":"",
+        "category":"A blog website for users to share their experiences and successes with mental health",
         "image":"uncloud-screenshot.png",
-        "url":""
+        "url":"https://uncloudblog.herokuapp.com/"
       }
     ]
   }

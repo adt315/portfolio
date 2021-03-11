@@ -33,7 +33,8 @@ class Contact extends Component {
          </div>
 
          <div className="row">
-            <div className="eight columns">
+            {/* <div className="eight columns"> */}
+            <div>
 
                <form action="" method="post" id="contactForm" name="contactForm">
 					<fieldset>
